@@ -1,3 +1,7 @@
+BroBros Network is a Minecraft Network.
+We host minigames and some fresh gamemodes.
+
+
 Copyright (©) 2023 BroBros Network
 
 Any contents of this organization is part of the BroBros Network.

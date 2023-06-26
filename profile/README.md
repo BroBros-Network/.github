@@ -1,4 +1,4 @@
-Copyright (C) 2023 BroBros Network
+Copyright (©) 2023 BroBros Network
 
 Any contents of this organization is part of the BroBros Network.
 
